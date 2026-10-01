@@ -1,0 +1,6 @@
+{
+  "name": "Space X Bot - Autonomous Space Infrastructure Maintenance Simulator",
+  "description": "Autonomous space infrastructure maintenance simulator demonstrating anomaly detection, robotic inspection, loose power connector repair, and telemetry verification in orbit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
